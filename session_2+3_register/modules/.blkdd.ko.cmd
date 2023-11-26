@@ -1,0 +1,1 @@
+cmd_/home/rawat/BLOCK_DRIVER/session_2+3_register/blkdd.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/rawat/BLOCK_DRIVER/session_2+3_register/blkdd.ko /home/rawat/BLOCK_DRIVER/session_2+3_register/blkdd.o /home/rawat/BLOCK_DRIVER/session_2+3_register/blkdd.mod.o ;  true
